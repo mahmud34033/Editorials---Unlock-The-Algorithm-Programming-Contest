@@ -1,23 +1,24 @@
 # Editorials---Unlock-The-Algorithm-Programming-Contest
 
-| Name of the contest | Problems | Solutions |
-| --- | --- | --- |
-| [Fall-23 [Preliminary - A Slot]](https://toph.co/c/unlock-the-algorithm-fall-23-preliminary-a-slot) | A | A |
-
-
-<table style="width:100%">
-  <tr>
-    <th colspan="2">Name</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>43</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>57</td>
-  </tr>
-</table>
+<table style="border-collapse: collapse; width:100%" border="1">
+    <tr>
+      <th>Name of Contest</th>
+      <th>Problems</th>
+      <th>Solutions</th>
+    </tr>
+    <tr>
+      <td rowspan="8" style="text-align: center"><a
+          href="https://toph.co/c/unlock-the-algorithm-fall-23-preliminary-a-slot" target="_blank">Fall-23 [Preliminary
+          - A Slot]</a></td>
+      <td style="text-align: center"><a href="https://ibb.co/v35rskR" target="_blank">A</a></td>
+      <td style="text-align: center"><a
+          href="https://github.com/mahmud34033/Editorials---Unlock-The-Algorithm-Programming-Contest/blob/main/fall23_preli-A/A.cpp"
+          target="_blank">A</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><a href="https://ibb.co/hcQHMsN" target="_blank">B</a></td>
+      <td style="text-align: center"><a
+          href="https://github.com/mahmud34033/Editorials---Unlock-The-Algorithm-Programming-Contest/blob/main/fall23_preli-A/B.cpp"
+          target="_blank">B</a></td>
+    </tr>
+  </table>
