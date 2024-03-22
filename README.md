@@ -1,6 +1,6 @@
 # Editorials---Unlock-The-Algorithm-Programming-Contest
 
-<table style="border-collapse: collapse; width:100%" border="1">
+<table style="width:100%">
     <tr>
       <th>Name of Contest</th>
       <th>Problems</th>
