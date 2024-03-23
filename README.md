@@ -1,4 +1,4 @@
-# Editorials---Unlock-The-Algorithm-Programming-Contest
+# Solutions---Unlock-The-Algorithm-Programming-Contest
 
 ## Fall-23 [Preliminary - A Slot]
 🏆 [Contest Link](https://toph.co/c/unlock-the-algorithm-fall-23-preliminary-a-slot)
